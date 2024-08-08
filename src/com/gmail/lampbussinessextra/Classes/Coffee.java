@@ -63,7 +63,7 @@ public class Coffee {
 
     // public final void brew() {}
 
-    public final CoffeeType getCoffeeType() { return COFFEE_TYPE; }
+    public CoffeeType getCoffeeType() { return COFFEE_TYPE; }
     public final BrewType getBrewType() { return BREW_TYPE; }
     public final Double getSize() { return SIZE; }
 }
