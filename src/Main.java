@@ -1,5 +1,3 @@
-package com.gmail.lampbussinessextra;
-
 import com.gmail.lampbussinessextra.Classes.*;
 import com.gmail.lampbussinessextra.Classes.Enum.BrewType;
 import com.gmail.lampbussinessextra.Classes.Enum.CoffeeType;

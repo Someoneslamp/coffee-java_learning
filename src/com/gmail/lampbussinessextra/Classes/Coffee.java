@@ -61,7 +61,10 @@ public class Coffee {
         return String.format(CoffeeNameFormat, this.BREW_TYPE, this.COFFEE_TYPE);
     }
 
-    // public final void brew() {}
+    // the comment below is of *up*most significance
+    //                          ^ oxymoron spotted
+    // what the heck should coffee do when brewed???
+    public final void brew() {}
 
     public final CoffeeType getCoffeeType() { return COFFEE_TYPE; }
     public final BrewType getBrewType() { return BREW_TYPE; }
