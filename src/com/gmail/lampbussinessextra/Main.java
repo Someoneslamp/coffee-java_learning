@@ -12,5 +12,8 @@ public class Main {
                 1.0
         );
         LampsCoffee.debug();
+
+        Coffee RandomCoffee = new Coffee();
+        RandomCoffee.debug();
     }
 }
